@@ -20,8 +20,8 @@
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=amw514&theme=dark&hide_border=false)<br/>
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=amw514&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://github.com/amw514/)---
+
 ![](https://github-readme-stats.vercel.app/api?username=amw514&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=amw514&icon=0&color=0)](https://visitcount.itsvg.in)
