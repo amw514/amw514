@@ -1,15 +1,24 @@
+<!-- This is a centered header with a greeting and the author's name -->
 <h1 align="center">Hey 👋 What's up? I am Ali 🫶</h1>
+
+<!-- This is a separator -->
 
 ###
 
+<!-- This is a left-aligned header introducing the 'About me' section -->
 <h2 align="left">About me 👇</h2>
 
+<!-- This is a paragraph detailing the author's current learning topics, goals, and current work -->
 <p align="left">📚<strong>Currently Learning: </strong>AI, ML, and DSA, with a focus on diverse technologies including the Java tech stack, Rust, and Go.<br><strong>🎯 Goals:</strong> To bring meaningful change and value to people’s lives through impactful software solutions.<br>🎲<strong> Currently working with:</strong> Next.js apps powered by AI and OpenAPI, llama 3.1, and various cutting-edge technologies for testing and optimization.</p>
 
+###
+
+<!-- This is a left-aligned header introducing the 'Contact Me' section -->
 <h2 align="left">Contact Me 🤙</h2>
 
 ###
 
+<!-- This is a centered div containing links to the author's LinkedIn, Twitter, and Gmail -->
 <div align="center">
   <a href="https://www.linkedin.com/in/ali14/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -24,9 +33,7 @@
 
 ###
 
-
-###
-
+<!-- This is a collapsible section header for 'Check Stats' -->
 <h2><details>
   <summary>Check Stats 📈</summary>
 
@@ -38,9 +45,9 @@
 </div>
 
 ###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/amw514/count.svg?"  />
 </div>
 
 </details></h2>
-
