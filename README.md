@@ -6,6 +6,24 @@
 
 <p align="left">📚<strong>Currently Learning: </strong>AI, ML, and DSA, with a focus on diverse technologies including the Java tech stack, Rust, and Go.<br><strong>🎯 Goals:</strong> To bring meaningful change and value to people’s lives through impactful software solutions.<br>🎲<strong> Currently working with:</strong> Next.js apps powered by AI and OpenAPI, llama 3.1, and various cutting-edge technologies for testing and optimization.</p>
 
+<h2 align="left">Contact Me 🤙</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ali14/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="http://twitter.com/DoingCoding" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alimunirabbas000@gmail.com&su=Hello%20Ali" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 
 ###
 
