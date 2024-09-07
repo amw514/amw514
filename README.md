@@ -33,8 +33,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amw514&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="178" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amw514&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="178" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=amw514&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=6&order=3" height="176" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amw514&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amw514&theme=monokai&border_radius=4.7" alt="GitHub Streak" /></a>  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amw514&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=amw514&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
