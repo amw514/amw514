@@ -33,6 +33,14 @@
 
 ###
 
+<h2 align="left">Projects 🧑‍💻</h2>
+
+| 🖼 Screenshot | 📜 Project | 🛠 Technologies | 📖 Description |
+|---|---|---|---|
+| <img width="150" alt="Screenshot of Clarity Boost" src="assets\clarityboost.png" > | [ClarityBoost](https://clarityboost.vercel.app/) | `TailwindCSS` `Shadcn` `React` `Stripe` `Cloudinary` `Clerk` `MongoDB` `Next.js` `TypeScript`  | AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal.|
+
+
+
 
 
 ###
